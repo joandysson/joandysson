@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/joandysson)](https://t.me/joandysson)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joandysson.gama@gmail.com)](mailto:joandysson.gama@gmail.com)
 
-## Hi there! 👋
+## Hi there, I'm Joandysson! 👋
 
 My name is Joandysson, I'm a web system developer.
 
