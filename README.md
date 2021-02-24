@@ -13,7 +13,7 @@ My name is Joandysson, I'm a web system developer.
 - :office_worker: Developer at **Alfamaweb**
 - :blue_heart: Knowledge in: PHP, React.js, Node.js, TypeScript, among others.
 - :green_heart: Framework: Laravel, Flutter
-- :heart: Database: Mysql, mongo, sql server, oracle 
+- :heart: Database: Mysql, Postgres, mongo, sql server, oracle 
 
 > :octocat: [joandysson.github.io](https://joandysson.github.io/)
 
