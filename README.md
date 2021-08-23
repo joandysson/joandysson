@@ -10,7 +10,7 @@
 
 My name is Joandysson, I'm a web system developer.
 
-- :office_worker: Developer at **Alfamaweb**
+- :office_worker: Developer at **Picpay**
 - :blue_heart: Knowledge in: PHP, React.js, Node.js, TypeScript, among others.
 - :green_heart: Framework: Laravel, Flutter
 - :heart: Database: Mysql, Postgres, mongo, sql server, oracle 
