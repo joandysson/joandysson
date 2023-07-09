@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Joandysson)](https://github.com/Joandysson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joandysson-gama-63360150/)](https://www.linkedin.com/in/joandysson-gama-63360150/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joandyssongama)](https://instagram.com/joandyssongama)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joandysson.gama@gmail.com)](mailto:joandysson.gama@gmail.com)
 
 ## Hi there, I'm Joandysson! 👋
